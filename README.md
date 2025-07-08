@@ -1,6 +1,3 @@
-bonjour <iframe> blabla
+bonjour blabla
 <p>qsdfiufsdiuh</p>
-<img src="sfdiuhfdsiuh">
-<script>
-  fetch("https://webhook.site/52ca45fb-9f75-4329-8eb4-c6e35693fdaa")
-</script>
+<img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSfJ7TdT6r0YPFovR2ZAsHltz6pPyFzX8GA7eMBW9rXSojdZ2FzTbPDVFDP7diTiWYhl1AemfL80nIozr9VRaHKIPyimrwB2BD-03KI9Iv2d8ER37oH5etGd5YgM0aiwBflWiSUavPMjXFO">
